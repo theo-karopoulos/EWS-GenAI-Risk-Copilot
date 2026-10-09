@@ -6,7 +6,10 @@
 [![OpenAI GPT-4o-mini](https://img.shields.io/badge/OpenAI-GPT--4o--mini-black.svg)](https://openai.com/)
 
 An end-to-end, enterprise-grade **GenAI Risk Copilot** built for Financial Risk Advisory, Model Risk Management (MRM), and Early Warning System (EWS) monitoring in banking and credit portfolios.
+# 🛡️ GenAI Risk Copilot — Enterprise EWS & MRM Platform
 
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ews-genai-risk-copilot-n8zaqoyt4rdmrf3vsrvf3m.streamlit.app)
+[![Live Interactive Demo](https://img.shields.io/badge/Demo-Live%20App-blue?style=flat&logo=streamlit)]([https://YOUR-STREAMLIT-APP-URL.streamlit.app](https://ews-genai-risk-copilot-n8zaqoyt4rdmrf3vsrvf3m.streamlit.app))
 ---
 
 ## 🌟 Key Architecture & Capabilities

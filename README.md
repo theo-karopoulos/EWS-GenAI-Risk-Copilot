@@ -1,6 +1,6 @@
 # 🛡️ GenAI Risk Copilot — Enterprise EWS & MRM Platform
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ews-genai-risk-copilot-7eddvyw2wkyaa9b8nawrqr.streamlit.app)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ews-genai-risk-copilot-5nr6rzjb6grgdzxhufm6q5.streamlit.app)
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.30%2B-FF4B4B.svg)](https://streamlit.io/)
 [![LangChain](https://img.shields.io/badge/LangChain-LCEL-green.svg)](https://www.langchain.com/)

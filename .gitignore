@@ -1,0 +1,26 @@
+# Python Byte-code & Cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# Environment Variables & Keys
+.env
+
+# Vector Database Local Store
+data/processed/chroma_db/
+
+# Generated Outputs & Cache
+deliverables/*.md
+!.gitkeep
+
+# IDE & OS Files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
